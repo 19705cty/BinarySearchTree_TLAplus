@@ -21,8 +21,6 @@ Load the specification file in TLA+ Toolbox and use the TLC model checker to ver
 
 ## Usage
 
-This TLA+ specification models a BST and can be used for educational purposes or as a foundation for programming implementations.
-
 - `Insert(n)`: Insert a number `n` into the BST.
 - `Delete(n)`: Remove a number `n` from the BST.
 - Verify correctness with the model checker.
